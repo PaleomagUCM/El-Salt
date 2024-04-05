@@ -35,12 +35,12 @@ To run the Matlab routine, you need to write in the main Matlab Command Window:
 The input parameters are:
 
 - d1,i1,a1,d2,i2,a2: the values d1, i1 and a1 are relatived to the first archeomagnetic
-directional data (d1 is declination, i1 is inclinaiton, and a1 is the alpha95). The same for
+directional data (d1 is declination, i1 is inclinaiton, and a1 is the  &#945;<sub>95</sub> value). The same for
 d2, i2 and a2, but for the second archeomagnetic directional data.
 
 - In the El Salt study, we use five directions that are analized in consecutive pairs as follows:
 
-|  Direction (hearth)      |Dec. (º):	 |Inc. (º):	| &#945;95 (º): |
+|  Direction (hearth)      |Dec. (º):	 |Inc. (º):	| &#945;<sub>95</sub> (º): |
 | ----------- |--------- |------|--------|
 | Dir 1 (H34): |6.6       |55.4  |3.8 |
 |Dir 2 (H55): |3.6        |49.8  |4.4 |        
